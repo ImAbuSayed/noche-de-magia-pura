@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-magia-pura/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Noche de magia pura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-magia-pura/) |
+| **Get License** | [Get License For Noche de magia pura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-magia-pura/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Noche de magia pura, cuando tú te mueves así
+> El aire se vuelve dulce, solo quiero estar junto a ti
+> Tus ojos son mi luna, guían mi respiración
+> Y en este ritmo lento, entrego el corazón
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
