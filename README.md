@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-magia-pura/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Noche de magia pura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-magia-pura/) |
+| **Get License** | [Commercial Licensing for Noche de magia pura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-magia-pura/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `52229f674113d9eb114d1c5e015258e3abcd9c96914d47e4a8b3c798b7cb593f` |
 | **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
